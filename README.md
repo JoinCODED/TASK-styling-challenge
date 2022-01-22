@@ -1,33 +1,14 @@
-# TASK-NAME
+# Styling challenge 🎨
 
-This is the template for tasks. These repos are the starting points and instructions for students to explore a concept.
+### Instructions
 
-## Instructions
-- Fork and clone [this repository](https://github.com/JoinCODED/{REPO_NAME}) to your `Development` folder.
+- Fork and clone [this repository](https://github.com/JoinCODED/TASK-styling-challenge) to your `Development` folder.
 
-## Objective and end result
-- Write the objective of the task.
-- If there are any images, make sure you resize them to around 880px maximum width. **Don't add big images**
+### Objective and end result
 
-![screenshot](https://tenor.com/xNjE.gif)
+In this challenge, you are going to clone one of the following websites. You don't need to finish the whole website, focus on one page and finish it then move on to the next one. The animation is optional, but it will give you extra points 😉
 
-
-### 🍋 The basic challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🤼‍♂️ The hard challenge title
-
-- Step 1
-- Step 2
-- Step 3
-
-
-### 🌶 The Extreme challenge title 
-
-- Step 1
-- Step 2
-- Step 3
+1. [Netflix](https://www.netflix.com)
+2. [Apple](https://www.apple.com)
+3. [Garoa Skincare](https://garoaskincare.com)
+4. [Koox](https://koox.co.uk/)
